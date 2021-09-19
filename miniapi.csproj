@@ -10,8 +10,4 @@
     <PackageReference Include="HotChocolate.AspNetCore" Version="11.3.7" />
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\miniapi.core\miniapi.core.csproj" />
-  </ItemGroup>
-
 </Project>

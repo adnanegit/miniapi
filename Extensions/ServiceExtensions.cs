@@ -1,5 +1,4 @@
 ﻿using miniapi.core;
-using miniapi.core.Database;
 
 namespace miniapi.Extensions
 {
